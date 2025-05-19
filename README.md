@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walt-neb
-- 📫 How to reach me walt.j.white@gmail.com
+- 📫 How to reach me walt@strawberryrobotics.com
 
 <!---
 walt-neb/walt-neb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
